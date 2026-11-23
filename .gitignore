@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Banco_de_trabajo/willow/build/willow.sym
+Banco_de_trabajo/willow/build/willow.lst
+Banco_de_trabajo/willow/build/willow.sms
