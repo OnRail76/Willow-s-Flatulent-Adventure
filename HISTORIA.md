@@ -1,0 +1,5 @@
+Usted es Willow, la gata de la familia.
+
+Es de noche y la casa se ha vuelto loca. Las pelotas de goma botan sin parar, la vieja escoba ha cobrado vida y la lavadora del baño ruge con hambre de calcetines. Willow, la gata de la casa, tiene muy pocas ganas de que le fastidien su sueñecito...
+
+Así que va a recorrer las cuatro habitaciones principales con su arma más temible: sus pedos.
